@@ -1,0 +1,140 @@
+nrg_bal,nrg_bal_label,geo,geo_label,y2024
+AFC,Available for final consumption,EU27_2020,European Union - 27 countries (from 2020),11003543.971
+DL,Distribution losses,EU27_2020,European Union - 27 countries (from 2020),257990.617
+EXP,Exports,EU27_2020,European Union - 27 countries (from 2020),4936131.802
+FC_E,Final consumption - energy use,EU27_2020,European Union - 27 countries (from 2020),10210134.916
+FC_IND_CON_E,Final consumption - industry sector - construction - energy use,EU27_2020,European Union - 27 countries (from 2020),117947.299
+FC_IND_CPC_E,Final consumption - industry sector - chemical and petrochemical - energy use,EU27_2020,European Union - 27 countries (from 2020),528936.629
+FC_IND_E,Final consumption - industry sector - energy use,EU27_2020,European Union - 27 countries (from 2020),2506353.592
+FC_IND_FBT_E,"Final consumption - industry sector - food, beverages and tobacco - energy use",EU27_2020,European Union - 27 countries (from 2020),320291.507
+FC_IND_IS_E,Final consumption - industry sector - iron and steel - energy use,EU27_2020,European Union - 27 countries (from 2020),241087.67
+FC_IND_MAC_E,Final consumption - industry sector - machinery - energy use,EU27_2020,European Union - 27 countries (from 2020),168430.845
+FC_IND_MQ_E,Final consumption - industry sector - mining and quarrying - energy use,EU27_2020,European Union - 27 countries (from 2020),38060.165
+FC_IND_NE,Final consumption - industry sector - non-energy use,EU27_2020,European Union - 27 countries (from 2020),860189.687
+FC_IND_NFM_E,Final consumption - industry sector - non-ferrous metals - energy use,EU27_2020,European Union - 27 countries (from 2020),80538.522
+FC_IND_NMM_E,Final consumption - industry sector - non-metallic minerals - energy use,EU27_2020,European Union - 27 countries (from 2020),333313.424
+FC_IND_NSP_E,Final consumption - industry sector - not elsewhere specified - energy use,EU27_2020,European Union - 27 countries (from 2020),163984.66
+FC_IND_PPP_E,"Final consumption - industry sector - paper, pulp and printing - energy use",EU27_2020,European Union - 27 countries (from 2020),293733.53
+FC_IND_TE_E,Final consumption - industry sector - transport equipment - energy use,EU27_2020,European Union - 27 countries (from 2020),79320.31299999999
+FC_IND_TL_E,Final consumption - industry sector - textile and leather - energy use,EU27_2020,European Union - 27 countries (from 2020),32100.456
+FC_IND_WP_E,Final consumption - industry sector - wood and wood products - energy use,EU27_2020,European Union - 27 countries (from 2020),103351.494
+FC_NE,Final consumption - non-energy use,EU27_2020,European Union - 27 countries (from 2020),902354.424
+FC_OTH_AF_E,Final consumption - other sectors - agriculture and forestry - energy use,EU27_2020,European Union - 27 countries (from 2020),307402.666
+FC_OTH_CP_E,Final consumption - other sectors - commercial and public services - energy use,EU27_2020,European Union - 27 countries (from 2020),1379080.509
+FC_OTH_E,Final consumption - other sectors - energy use,EU27_2020,European Union - 27 countries (from 2020),4402038.438
+FC_OTH_FISH_E,Final consumption - other sectors - fishing - energy use,EU27_2020,European Union - 27 countries (from 2020),15611.96
+FC_OTH_HH_E,Final consumption - other sectors - households - energy use,EU27_2020,European Union - 27 countries (from 2020),2653161.844
+FC_OTH_NE,Final consumption - other sectors - non-energy use,EU27_2020,European Union - 27 countries (from 2020),6948.044
+FC_OTH_NSP_E,Final consumption - other sectors - not elsewhere specified - energy use,EU27_2020,European Union - 27 countries (from 2020),46781.461
+FC_TRA_DAVI_E,Final consumption - transport sector - domestic aviation - energy use,EU27_2020,European Union - 27 countries (from 2020),69839.535
+FC_TRA_DNAVI_E,Final consumption - transport sector - domestic navigation - energy use,EU27_2020,European Union - 27 countries (from 2020),48656.434
+FC_TRA_E,Final consumption - transport sector - energy use,EU27_2020,European Union - 27 countries (from 2020),3301742.886
+FC_TRA_NE,Final consumption - transport sector - non-energy use,EU27_2020,European Union - 27 countries (from 2020),17092.222
+FC_TRA_NSP_E,Final consumption - transport sector - not elsewhere specified - energy use,EU27_2020,European Union - 27 countries (from 2020),6034.288
+FC_TRA_PIPE_E,Final consumption - transport sector - pipeline transport - energy use,EU27_2020,European Union - 27 countries (from 2020),11575.021
+FC_TRA_RAIL_E,Final consumption - transport sector - rail - energy use,EU27_2020,European Union - 27 countries (from 2020),59965.174
+FC_TRA_ROAD_E,Final consumption - transport sector - road - energy use,EU27_2020,European Union - 27 countries (from 2020),3105672.443
+FEC_EED,Final energy consumption - Energy Efficiency Directive,EU27_2020,European Union - 27 countries (from 2020),10478310.701
+GAE,Gross available energy,EU27_2020,European Union - 27 countries (from 2020),15497327.243
+GEP,Gross electricity production,EU27_2020,European Union - 27 countries (from 2020),2828468.695
+GEP_APCHP,Gross electricity production - autoproducer combined heat and power,EU27_2020,European Union - 27 countries (from 2020),191480.498
+GEP_APE,Gross electricity production - autoproducer electricity only,EU27_2020,European Union - 27 countries (from 2020),195082.496
+GEP_MAPCHP,Gross electricity production - main activity producer combined heat and power,EU27_2020,European Union - 27 countries (from 2020),336533.693
+GEP_MAPE,Gross electricity production - main activity producer electricity only,EU27_2020,European Union - 27 countries (from 2020),2105372.007
+GHP,Gross heat production,EU27_2020,European Union - 27 countries (from 2020),562304.571
+GHP_APCHP,Gross heat production - autoproducer combined heat and power,EU27_2020,European Union - 27 countries (from 2020),45326.685
+GHP_APH,Gross heat production - autoproducer heat only,EU27_2020,European Union - 27 countries (from 2020),29289.195
+GHP_MAPCHP,Gross heat production - main activity producer combined heat and power,EU27_2020,European Union - 27 countries (from 2020),297322.632
+GHP_MAPH,Gross heat production - main activity producer heat only,EU27_2020,European Union - 27 countries (from 2020),188266.954
+GIC,Gross inland consumption,EU27_2020,European Union - 27 countries (from 2020),15024096.055
+GIC_EED,Gross inland consumption - Energy Efficiency Directive,EU27_2020,European Union - 27 countries (from 2020),14792913.713
+IMP,Imports,EU27_2020,European Union - 27 countries (from 2020),13813762.972
+INTAVI,International aviation,EU27_2020,European Union - 27 countries (from 2020),484895.832
+INTMARB,International maritime bunkers,EU27_2020,European Union - 27 countries (from 2020),473231.186
+NRGSUP,Total energy supply,EU27_2020,European Union - 27 countries (from 2020),14539200.224
+NRG_BF_E,Energy sector - blast furnaces - energy use,EU27_2020,European Union - 27 countries (from 2020),25196.123
+NRG_BIOG_E,Energy sector - gasification plants for biogas - energy use,EU27_2020,European Union - 27 countries (from 2020),6901.232
+NRG_BKBPB_E,Energy sector - brown coal briquettes and peat briquettes plants - energy use,EU27_2020,European Union - 27 countries (from 2020),7738.822
+NRG_CL_E,Energy sector - coal liquefaction plants - energy use,EU27_2020,European Union - 27 countries (from 2020),220.321
+NRG_CM_E,Energy sector - coal mines - energy use,EU27_2020,European Union - 27 countries (from 2020),9075.864
+NRG_CO_E,Energy sector - coke ovens - energy use,EU27_2020,European Union - 27 countries (from 2020),33856.403
+NRG_CPP_E,Energy sector - charcoal production plants - energy use,EU27_2020,European Union - 27 countries (from 2020),0
+NRG_E,Energy sector - energy use,EU27_2020,European Union - 27 countries (from 2020),690102.339
+NRG_EHG_E,Energy sector - electricity and heat generation - energy use,EU27_2020,European Union - 27 countries (from 2020),123919.952
+NRG_GTL_E,Energy sector - gas-to-liquids plants - energy use,EU27_2020,European Union - 27 countries (from 2020),0
+NRG_GW_E,Energy sector - gas works - energy use,EU27_2020,European Union - 27 countries (from 2020),88.53700000000001
+NRG_LNG_E,Energy sector - liquefaction and regasification plants (LNG) - energy use,EU27_2020,European Union - 27 countries (from 2020),2530.165
+NRG_NE,Energy sector - non-energy use,EU27_2020,European Union - 27 countries (from 2020),206.961
+NRG_NI_E,Energy sector - nuclear industry - energy use,EU27_2020,European Union - 27 countries (from 2020),1124.901
+NRG_NSP_E,Energy sector - not elsewhere specified - energy use,EU27_2020,European Union - 27 countries (from 2020),48036.989
+NRG_OIL_NG_E,Energy sector - oil and natural gas extraction plants - energy use,EU27_2020,European Union - 27 countries (from 2020),27035.263
+NRG_PF_E,Energy sector - patent fuel plants - energy use,EU27_2020,European Union - 27 countries (from 2020),0
+NRG_PR_E,Energy sector - petroleum refineries (oil refineries) - energy use,EU27_2020,European Union - 27 countries (from 2020),404377.762
+PEC_EED,Primary energy consumption - Energy Efficiency Directive,EU27_2020,European Union - 27 countries (from 2020),13890559.287
+PPRD,Primary production,EU27_2020,European Union - 27 countries (from 2020),6389423.661
+RCV_RCY,Recovered and recycled products,EU27_2020,European Union - 27 countries (from 2020),16773.329
+STATDIFF,Statistical differences,EU27_2020,European Union - 27 countries (from 2020),-108945.368
+STK_CHG,Change in stock,EU27_2020,European Union - 27 countries (from 2020),213499.079
+TI_BF_E,Transformation input - blast furnaces - energy use,EU27_2020,European Union - 27 countries (from 2020),301698.677
+TI_BKBPB_E,Transformation input - brown coal briquettes and peat briquettes plants - energy use,EU27_2020,European Union - 27 countries (from 2020),31289.264
+TI_BNG_E,Transformation input - for blending with natural gas - energy use,EU27_2020,European Union - 27 countries (from 2020),37473.67
+TI_CL_E,Transformation input - coal liquefaction plants - energy use,EU27_2020,European Union - 27 countries (from 2020),21742.798
+TI_CO_E,Transformation input - coke ovens - energy use,EU27_2020,European Union - 27 countries (from 2020),299702.18
+TI_CPP_E,Transformation input - charcoal production plants - energy use,EU27_2020,European Union - 27 countries (from 2020),3012.803
+TI_E,Transformation input - energy use,EU27_2020,European Union - 27 countries (from 2020),14229132.959
+TI_EHG_APCHP_E,Transformation input - electricity and heat generation - autoproducer combined heat and power - energy use,EU27_2020,European Union - 27 countries (from 2020),403004.135
+TI_EHG_APE_E,Transformation input - electricity and heat generation - autoproducer electricity only - energy use,EU27_2020,European Union - 27 countries (from 2020),255184.225
+TI_EHG_APH_E,Transformation input - electricity and heat generation - autoproducer heat only - energy use,EU27_2020,European Union - 27 countries (from 2020),23545.749
+TI_EHG_CB,Transformation input - electricity and heat generation - charging batteries,EU27_2020,European Union - 27 countries (from 2020),2783.372
+TI_EHG_DHEP,Transformation input - electricity and heat generation - derived heat for electricity production,EU27_2020,European Union - 27 countries (from 2020),2915.867
+TI_EHG_E,Transformation input - electricity and heat generation - energy use,EU27_2020,European Union - 27 countries (from 2020),5733556.041
+TI_EHG_EB,Transformation input - electricity and heat generation - electric boilers,EU27_2020,European Union - 27 countries (from 2020),3940.542
+TI_EHG_EDHP,Transformation input - electricity and heat generation - electrically driven heat pumps,EU27_2020,European Union - 27 countries (from 2020),2889.874
+TI_EHG_EPS,Transformation input - electricity and heat generation - electricity for pumped storage,EU27_2020,European Union - 27 countries (from 2020),47487.228
+TI_EHG_MAPCHP_E,Transformation input - electricity and heat generation - main activity producer combined heat and power - energy use,EU27_2020,European Union - 27 countries (from 2020),964633.224
+TI_EHG_MAPE_E,Transformation input - electricity and heat generation - main activity producer electricity only - energy use,EU27_2020,European Union - 27 countries (from 2020),3819678.701
+TI_EHG_MAPH_E,Transformation input - electricity and heat generation - main activity producer heat only - energy use,EU27_2020,European Union - 27 countries (from 2020),207493.124
+TI_GTL_E,Transformation input - gas-to-liquids plants - energy use,EU27_2020,European Union - 27 countries (from 2020),0
+TI_GW_E,Transformation input - gas works - energy use,EU27_2020,European Union - 27 countries (from 2020),123.827
+TI_LBB_E,Transformation input - liquid biofuels blended - energy use,EU27_2020,European Union - 27 countries (from 2020),188357.991
+TI_NE,Transformation input - non-energy use,EU27_2020,European Union - 27 countries (from 2020),1915.601
+TI_NRG_FC_IND_NE,"Transformation input, energy sector and final consumption in industry sector - non-energy use",EU27_2020,European Union - 27 countries (from 2020),878314.1580000001
+TI_NSP_E,Transformation input - not elsewhere specified - energy use,EU27_2020,European Union - 27 countries (from 2020),23582.707
+TI_PF_E,Transformation input - patent fuel plants - energy use,EU27_2020,European Union - 27 countries (from 2020),0
+TI_RPI_BPI_E,Transformation input - refineries and petrochemical industry - backflows from petrochemical industry - energy use,EU27_2020,European Union - 27 countries (from 2020),171182.324
+TI_RPI_DU_E,Transformation input - refineries and petrochemical industry - direct use - energy use,EU27_2020,European Union - 27 countries (from 2020),146530.723
+TI_RPI_E,Transformation input - refineries and petrochemical industry - energy use,EU27_2020,European Union - 27 countries (from 2020),7588592.996
+TI_RPI_IT_E,Transformation input - refineries and petrochemical industry - interproduct transfers - energy use,EU27_2020,European Union - 27 countries (from 2020),413698.155
+TI_RPI_PII_E,Transformation input - refineries and petrochemical industry - petrochemical industry intake - energy use,EU27_2020,European Union - 27 countries (from 2020),172699.274
+TI_RPI_PT_E,Transformation input - refineries and petrochemical industry - products transferred - energy use,EU27_2020,European Union - 27 countries (from 2020),320017.074
+TI_RPI_RI_E,Transformation input - refineries and petrochemical industry - refinery intake - energy use,EU27_2020,European Union - 27 countries (from 2020),6364465.45
+TO,Transformation output,EU27_2020,European Union - 27 countries (from 2020),11641569.664
+TO_BF,Transformation output - blast furnaces,EU27_2020,European Union - 27 countries (from 2020),117384.975
+TO_BKBPB,Transformation output - brown coal briquettes and peat briquettes plants,EU27_2020,European Union - 27 countries (from 2020),26406.292
+TO_BNG,Transformation output - blended in natural gas,EU27_2020,European Union - 27 countries (from 2020),37490.321
+TO_CL,Transformation output - coal liquefaction plants,EU27_2020,European Union - 27 countries (from 2020),13575.154
+TO_CO,Transformation output - coke ovens,EU27_2020,European Union - 27 countries (from 2020),281668.387
+TO_CPP,Transformation output - charcoal production plants,EU27_2020,European Union - 27 countries (from 2020),1288.581
+TO_EHG,Transformation output - electricity and heat generation,EU27_2020,European Union - 27 countries (from 2020),3390773.265
+TO_EHG_APCHP,Transformation output - electricity and heat generation - autoproducer combined heat and power,EU27_2020,European Union - 27 countries (from 2020),234135.229
+TO_EHG_APE,Transformation output - electricity and heat generation - autoproducer electricity only,EU27_2020,European Union - 27 countries (from 2020),193002.716
+TO_EHG_APH,Transformation output - electricity and heat generation - autoproducer heat only,EU27_2020,European Union - 27 countries (from 2020),14391.223
+TO_EHG_EB,Transformation output - electricity and heat generation - electric boilers,EU27_2020,European Union - 27 countries (from 2020),3842.104
+TO_EHG_EDHP,Transformation output - electricity and heat generation - electrically driven heat pumps,EU27_2020,European Union - 27 countries (from 2020),9711.075000000001
+TO_EHG_MAPCHP,Transformation output - electricity and heat generation - main activity producer combined heat and power,EU27_2020,European Union - 27 countries (from 2020),624475.562
+TO_EHG_MAPE,Transformation output - electricity and heat generation - main activity producer electricity only,EU27_2020,European Union - 27 countries (from 2020),2069200.132
+TO_EHG_MAPH,Transformation output - electricity and heat generation - main activity producer heat only,EU27_2020,European Union - 27 countries (from 2020),170755.321
+TO_EHG_OTH,Transformation output - electricity and heat generation - other sources,EU27_2020,European Union - 27 countries (from 2020),36835.561
+TO_EHG_PH,Transformation output - electricity and heat generation - pumped hydro,EU27_2020,European Union - 27 countries (from 2020),34424.34
+TO_GTL,Transformation output - gas-to-liquids plants,EU27_2020,European Union - 27 countries (from 2020),13356.811
+TO_GW,Transformation output - gas works,EU27_2020,European Union - 27 countries (from 2020),617.763
+TO_LBB,Transformation output - liquid biofuels blended,EU27_2020,European Union - 27 countries (from 2020),188447.859
+TO_NSP,Transformation output - not elsewhere specified,EU27_2020,European Union - 27 countries (from 2020),15992.875
+TO_PF,Transformation output - patent fuel plants,EU27_2020,European Union - 27 countries (from 2020),0
+TO_RPI,Transformation output - refineries and petrochemical industry,EU27_2020,European Union - 27 countries (from 2020),7554567.387
+TO_RPI_BKFLOW,Transformation output - refineries and petrochemical industry - backflows,EU27_2020,European Union - 27 countries (from 2020),168641.246
+TO_RPI_IT,Transformation output - refineries and petrochemical industry - interproduct transfers,EU27_2020,European Union - 27 countries (from 2020),417113.19
+TO_RPI_PIR,Transformation output - refineries and petrochemical industry - petrochemical industry returns,EU27_2020,European Union - 27 countries (from 2020),171182.324
+TO_RPI_PPR,Transformation output - refineries and petrochemical industry - primary product receipts,EU27_2020,European Union - 27 countries (from 2020),149381.984
+TO_RPI_PT,Transformation output - refineries and petrochemical industry - products transferred,EU27_2020,European Union - 27 countries (from 2020),324715.731
+TO_RPI_RO,Transformation output - refineries and petrochemical industry - refinery output,EU27_2020,European Union - 27 countries (from 2020),6323532.91
