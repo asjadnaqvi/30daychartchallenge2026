@@ -1,7 +1,7 @@
 clear
 
 
-cap cd "D:\Dropbox\STATA - MEDIUM\30daychartchallenge 2026"
+cap cd "D:\Dropbox\STATA - MEDIUM\30daychartchallenge2026/day09"
 
 
 *** Central Bank Gold reserves

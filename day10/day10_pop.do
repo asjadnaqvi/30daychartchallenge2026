@@ -1,9 +1,9 @@
 clear
 
 
-cap cd "D:\Dropbox\STATA - MEDIUM\30daychartchallenge 2026"
+cap cd "D:\Dropbox\STATA - MEDIUM\30daychartchallenge2026/day10"
 
-
+*ssc install tidytuesday, replace
 *tidytuesday, year(2021)
 
 *tidytuesday get, year(2021) week(38) // billboard top 100

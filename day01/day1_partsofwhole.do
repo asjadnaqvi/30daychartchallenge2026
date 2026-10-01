@@ -1,30 +1,30 @@
 clear
 
 
-cap cd "D:\Dropbox\STATA - MEDIUM\30daychartchallenge 2026"
+cap cd "D:\Dropbox\STATA - MEDIUM\30daychartchallenge2026\day01"
 
 
 *** day 1: parts of whole ****
 
-*eurostatuse2 nrg_bal_c, clear stub(y) noflags
+/*
+*eurostatdata nrg_bal_c, clear stub(y) noflags
 
 use nrg_bal_c, clear
-
 tab geo
 keep if geo=="EU27_2020"
-
 
 tab unit
 keep if unit=="GWH"
 drop unit*
 
-
-
+save nrg_bal_c_small, replace
+*/
 
 *drop y1990-y2022
-
 *keep if geo=="EU27_2020"
 
+
+use nrg_bal_c_small, clear
 
 tab freq
 drop freq*

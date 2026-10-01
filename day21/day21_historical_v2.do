@@ -1,44 +1,13 @@
 clear
 
-cap cd "D:\Dropbox\WORLD BANK C3A DATA"
-cap cd "C:\Users\asjad\Dropbox\WORLD BANK C3A DATA"
+cap cd "D:\Dropbox\STATA - MEDIUM\30daychartchallenge2026\day21"
+
 
 graph set window fontface "Abel"  // set graph font here
 
 
-*** source: https://datacatalog.worldbank.org/search/dataset/0038015/International-Debt-Statistics
 
-
-**** set up the indicators files
-
-/*
-import excel using "./01_raw/debt/IDS_indicators_order_v2.xlsx", clear first
-cap drop description 
-compress
-save "./03_split/debt/debt_indicators_order.dta", replace
-*/
-
-**** STEP 2: set the data structure *****
-
-
-use "./06_master/IDS_master.dta", clear
-
-*keep if markme==1
-*keep if partner=="World"
-
-merge m:1 code using "./03_split/wb_indicators_all_unique.dta"
-drop if _m==2
-drop _m
-compress
-order iso3 country iso3_partner partner code description
-
-
-keep if inlist(code, "DT.DOD.DECT.GN.ZS", "DT.DOD.DECT.CD", "DT.CUR.USDL.ZS", "DT.CUR.EURO.ZS", "DT.CUR.JYEN.ZS", "DT.CUR.UKPS.ZS", "DT.CUR.SDRW.ZS", "DT.CUR.OTHC.ZS")
-
-keep if partner=="World"
-
-
-
+use wb_indicators_small, clear
 
 count
 

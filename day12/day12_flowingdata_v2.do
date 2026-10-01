@@ -1,37 +1,10 @@
 clear
 
-cap cd "D:\Dropbox\STATA - MEDIUM\30daychartchallenge 2026"
 
 
+cap cd "D:\Dropbox\STATA - MEDIUM\30daychartchallenge2026/day12"
 
-
-
-
-
-**** merge with file
-
-
-use "D:\Dropbox\WORLD BANK C3A DATA/03_split/OECD_DAC/DAC_table1.dta", clear
-
-
-tab year
-*keep if year==2024
-
-tab aidtype
-keep if aidtype_code==1015
-
-
-tab fundflows
-keep if flows==1140
-
-
-
-drop if donor_id > 20000
-drop if donor_id==918
-
-drop if value < 0
-
-drop if year==2025
+use DAC_table1_small, clear
 
 
 /*

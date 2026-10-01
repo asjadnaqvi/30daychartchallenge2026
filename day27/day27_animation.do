@@ -1,6 +1,6 @@
 clear
 
-cap cd "D:\Dropbox\STATA - MEDIUM\30daychartchallenge 2026"
+cap cd "D:\Dropbox\STATA - MEDIUM\30daychartchallenge2026/day27"
 
 graph set window fontface "Abel"  // set graph font here
 
@@ -8,10 +8,10 @@ graph set window fontface "Abel"  // set graph font here
 ******** get the actual data
 
 
-*eurostatuse2 prc_hicp_minr, clear stub(y) noflags
+*eurostatdata prc_hicp_minr, clear stub(y) noflags
 *save "prc_hicp_minr.dta", replace
 
-
+/*
 use "prc_hicp_minr.dta", clear
 
 tab geo
@@ -29,10 +29,16 @@ drop freq*
 tab coicop18
 keep if coicop18=="CP0722"
 
+compress
+save prc_hicp_minr_small, replace
+
+*/
+
+
+use prc_hicp_minr_small, clear
+
+
 *drop coicop*
-
-
-
 egen _check = rownonmiss(y*)
 tab _check
 

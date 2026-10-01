@@ -1,6 +1,6 @@
 clear
 
-cap cd "D:\Dropbox\STATA - MEDIUM\30daychartchallenge 2026"
+cap cd "D:\Dropbox\STATA - MEDIUM\30daychartchallenge2026/day19"
 
 
 graph set window fontface "Abel"

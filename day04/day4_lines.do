@@ -1,13 +1,13 @@
 clear
 
 
-cap cd "D:\Dropbox\STATA - MEDIUM\30daychartchallenge 2026"
+cap cd "D:\Dropbox\STATA - MEDIUM\30daychartchallenge2026/day04"
 
 
 *** day 4: lines ****
 
 *** income by quintile
-*eurostatuse2 prc_hicp_minr, clear stub(y) noflags
+*eurostatdata prc_hicp_minr, clear stub(y) noflags
 
 
 use prc_hicp_minr, clear

@@ -1,13 +1,13 @@
 clear
 
 
-cap cd "D:\Dropbox\STATA - MEDIUM\30daychartchallenge 2026"
+cap cd "D:\Dropbox\STATA - MEDIUM\30daychartchallenge2026/day03"
 
 
 *** day 3: mosaic ****
 
 *** income by quintile
-*eurostatuse2 ilc_di01, clear stub(y) noflags
+*eurostatdata ilc_di01, clear stub(y) noflags
 
 use ilc_di01, clear
 drop freq*

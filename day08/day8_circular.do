@@ -1,7 +1,7 @@
 clear
 
 
-cap cd "D:\Dropbox\STATA - MEDIUM\30daychartchallenge 2026"
+cap cd "D:\Dropbox\STATA - MEDIUM\30daychartchallenge2026/day08"
 
 
 ***source: https://footprint.info.yorku.ca/data/

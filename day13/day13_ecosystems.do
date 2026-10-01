@@ -1,7 +1,7 @@
 clear all
 
 
-cap cd "D:\Dropbox\STATA - MEDIUM\30daychartchallenge 2026"
+cap cd "D:\Dropbox\STATA - MEDIUM\30daychartchallenge2026/day13"
 
 
 *** source living planet database: https://www.livingplanetindex.org/data_portal

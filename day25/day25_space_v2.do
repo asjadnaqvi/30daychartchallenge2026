@@ -1,6 +1,6 @@
 clear
 
-cap cd "D:\Dropbox\STATA - MEDIUM\30daychartchallenge 2026"
+cap cd "D:\Dropbox\STATA - MEDIUM\30daychartchallenge2026/day25"
 
 graph set window fontface "Abel"  // set graph font here
 
@@ -8,7 +8,7 @@ graph set window fontface "Abel"  // set graph font here
 ******** get the actual data
 
 
-*eurostatuse2 lan_lcv_ovw, clear stub(y) noflags
+*eurostatdata lan_lcv_ovw, clear stub(y) noflags
 *save "lan_lcv_ovw.dta", replace
 
 

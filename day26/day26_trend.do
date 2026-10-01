@@ -1,6 +1,6 @@
 clear
 
-cap cd "D:\Dropbox\STATA - MEDIUM\30daychartchallenge 2026"
+cap cd "D:\Dropbox\STATA - MEDIUM\30daychartchallenge2026/day26"
 
 graph set window fontface "Abel"  // set graph font here
 
@@ -8,25 +8,18 @@ graph set window fontface "Abel"  // set graph font here
 ******** get the actual data
 
 
-*eurostatuse2 demo_r_mweek3, clear stub(y) noflags
+*eurostatdata demo_r_mweek3, clear stub(y) noflags
 *save "demo_r_mweek3.dta", replace
 
 
-*use "C:\Users\asjad\Dropbox\PROJECT COVID\extracted/demo_r_mweek3.dta"		
+/*
 use "demo_r_mweek3.dta", clear
-
-tab geo
-
-
-*drop if length(geo)==3
-*drop if length(geo)==5
 
 tab geo
 keep if length(geo)==2
 
 tab unit
 drop unit*
-
 
 tab sex
 keep if sex=="T"
@@ -36,9 +29,13 @@ tab age
 keep if age=="TOTAL"
 drop age*
 
-
 drop freq*
 
+compress
+save "demo_r_mweek3_small.dta", replace
+*/
+
+use demo_r_mweek3_small, clear
 
 egen _check = rownonmiss(y*)
 tab _check

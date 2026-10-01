@@ -1,10 +1,10 @@
 clear
 
 
-cap cd "D:\Dropbox\STATA - MEDIUM\30daychartchallenge 2026"
+cap cd "D:\Dropbox\STATA - MEDIUM\30daychartchallenge2026/day11"
 
 
-*eurostatuse2 ext_lt_intertrd, clear stub(y) noflags
+*eurostatdata ext_lt_intertrd, clear stub(y) noflags
 
 use ext_lt_intertrd, clear
 

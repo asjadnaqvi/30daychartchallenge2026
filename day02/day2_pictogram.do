@@ -1,12 +1,12 @@
 clear
 
 
-cap cd "D:\Dropbox\STATA - MEDIUM\30daychartchallenge 2026"
+cap cd "D:\Dropbox\STATA - MEDIUM\30daychartchallenge2026/day02"
 
 
 *** day 1: parts of whole ****
 
-*eurostatuse2 nrg_bal_c, clear stub(y) noflags
+*eurostatdata nrg_bal_c, clear stub(y) noflags
 
 use nrg_ind_id3cf, clear
 

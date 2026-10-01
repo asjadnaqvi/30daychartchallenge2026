@@ -1,7 +1,7 @@
 clear
 graph set window fontface "Abel"  // set graph font here
 
-cap cd "D:\Dropbox\STATA - MEDIUM\30daychartchallenge 2026"
+cap cd "D:\Dropbox\STATA - MEDIUM\30daychartchallenge2026/day29"
 
 
 import excel using "ECB Data Portal long_20260429204754.xlsx", clear first sheet("DATA(MIR)") case(lower)
