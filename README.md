@@ -20,17 +20,8 @@ The poster summarizes all my contributed entries:
 <img src="30daychartchallenge_2026.png" alt="30 Day Chart Challenge 2026 poster" width="80%">
 
 
-These charts are made in Stata using public data. Most figures use my [own Stata packages](https://github.com/asjadnaqvi), therefore replication of the files might require adding additional ados. If you use the dofile, then please also adjust the path accordingly. If a chart cannot be replicated one-to-one, then please open an issue. There is a chance that some packages were updated but not synced with SSC.
+These charts are made in Stata using publicly-available data. Most figures use my [own Stata packages](https://github.com/asjadnaqvi), therefore replication of the files might require installing additional ados. If you use the dofile, please also adjust the path accordingly. If a chart cannot be replicated, then please open an issue. 
 
-### Large local-only data files
-
-The following source data files are excluded from Git because GitHub does not accept individual files larger than 100 MB. They remain available in the local project folder for reproduction:
-
-- `day01/nrg_bal_c.dta` (approximately 674 MB)
-- `day26/demo_r_mweek3.dta` (approximately 306 MB)
-- `day27/prc_hicp_minr.dta` (approximately 304 MB)
-
-I will (soon) reduce these files to allow the users to make the graphs shown in the figures.
 
 
 ## Day 1
